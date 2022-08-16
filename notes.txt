@@ -1,0 +1,21 @@
+// Create a folder in your projects folder called bootcamp-tests. 
+// Write all your tests in a sub-folder called test in there. 
+// Commit it to github using a repository called bootcamp-tests.
+
+// Write tests for:
+
+// * greet
+// * isFromBellville
+// * regCheck
+// * countRegNumber
+// * isWeekday
+// * yearsAgo
+// * countAllPaarl
+// * countAllFromTown
+// * transportFee
+// * totalPhoneBill
+// * fromWhere
+// * findItemsOver20
+// * findItemsOver
+// * mostProfitableDepartment
+
